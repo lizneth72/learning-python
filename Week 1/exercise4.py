@@ -1,7 +1,7 @@
 '''
-4. Create a show_version variable that contains the following
+Create a show_version variable that contains the following
 
- show_version = "*0        CISCO881-SEC-K9       FTX0000038X    " 
+ show_version = "*0        CISCO881-SEC-K9       FTX0000038X    "
 
 
 Remove all leading and trailing whitespace from the string.
